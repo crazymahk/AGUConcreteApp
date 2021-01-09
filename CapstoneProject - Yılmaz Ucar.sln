@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capstoneProject", "CE\capstoneProject.csproj", "{2BDDB774-9994-45CD-A910-8A07B4C7AFA6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{1678EE9C-9416-4248-B4BC-2375BF5B2E87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDDB774-9994-45CD-A910-8A07B4C7AFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDDB774-9994-45CD-A910-8A07B4C7AFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDDB774-9994-45CD-A910-8A07B4C7AFA6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDDB774-9994-45CD-A910-8A07B4C7AFA6}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{1678EE9C-9416-4248-B4BC-2375BF5B2E87}.Debug|Any CPU.ActiveCfg = Debug
+		{1678EE9C-9416-4248-B4BC-2375BF5B2E87}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F60CB491-9531-48EE-A3B7-0856A3649053}
+	EndGlobalSection
+EndGlobal
